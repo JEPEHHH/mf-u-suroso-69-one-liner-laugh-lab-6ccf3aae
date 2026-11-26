@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "u-suroso-69-one-liner-laugh-lab-6ccf3aae",
+  "phase": "dev",
+  "bundle_sha256": "880f51ad274ef81f9454f3a32b1932ee96995efcf41bbf3ed16d708009585d05",
+  "dataset_sha256": null,
+  "harness_version": "harness@439e03288d8254dbdebfeee0e886f45aa003061ad9faf5d8fc99338d9fac0f98 node v26.13.1",
+  "scorer_version": "scorer@b4ff9a3eeff331d1c237b6f688f4b129715c530f0122992aaacb77da14fc9a9e program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "b795964c5530597afb8e35a02d7c8ea3dd20a85d1943ef8a98e2d5841e70b95e",
+      "size": 74225
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "fd398d89e38cbc9d7b898c96d24cdf52fec85b837d94739b67ef89fd864e8376",
+      "size": 44540971
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "58c699a978e154d0df5942b83a7f8abc919bb4fb13a77f186958be7a2fc094b3",
+      "size": 27046
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "aeea6b3bb342b841a3326e4f27df6172fddd683673b6d80b4e27e9b41e8abcdb",
+      "size": 21322
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "3c8ac2322d72b94af89a7037c73bcf18f1e631f8edf9ce20bccede25a2a74e01",
+      "size": 21322
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "ddb13e7e1f2df77a540705f3d0df114d29a057fbeec9e9c617c3227c6bbde834",
+      "size": 3251539
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "684a89d6b8bb40285a61605b67aa45f560cb189cb5c4a4b60654cea3ce4acc7b",
+      "size": 85
+    }
+  ]
+}
